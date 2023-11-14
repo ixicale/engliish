@@ -4,7 +4,8 @@
 
 **Artificial Intelligence (AI)** is a fascinating area in computer science focused on creating machines capable of tasks that typically need human intelligence. It's a wide field, encompassing several subfields like **machine learning**, **natural language processing**, **computer vision**, and **robotics**.
 
-![image](https://github.com/ixicale/ix/assets/45366419/bbc5f1c4-e3d8-4187-a855-4c93e99e961f)
+![image](https://github.com/ixicale/engliish/assets/45366419/f1dc703a-265e-40a5-9187-b3eb2a8d1ba8)
+
 
 
 ## How Does AI Work?
